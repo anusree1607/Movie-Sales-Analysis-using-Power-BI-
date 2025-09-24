@@ -42,6 +42,11 @@ The objective is to transform raw data into **interactive dashboards** and gener
 
 ---
 
+## Link to Power BI Report:
+[View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=ab5cfd78-d5b8-464f-9a65-01d6dc3c1794&autoAuth=true&ctid=67aea528-b5b0-4fab-a171-b900f4c932d4)  
+
+---
+
 ## Key Insights  
 - **2016** was the peak year with the highest releases and revenue.  
 - **Action, Adventure, and Comedy** genres generated the most revenue, while **Drama** was the most common genre.  
